@@ -1,2 +1,7 @@
 # EdgeSeleniumAutomation
-Edge Browser automation using Selenium Webdriver 
+Microsoft Edge Browser automated test using:
+
+Python
+Microsoft Edge Selenium Webdriver
+OpenCV library
+Pillow library
