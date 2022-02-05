@@ -1,5 +1,5 @@
 # Selenium Automation
-## Automated tests on:
+Automated tests on:
 - Chrome Desktop
 - Edge Desktop
 - Chrome Android browser
