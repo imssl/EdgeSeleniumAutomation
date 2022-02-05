@@ -1,7 +1,12 @@
-# EdgeSeleniumAutomation
-Microsoft Edge Browser automated test using:
+# Selenium Automation
+## Automated tests on:
+- Chrome Desktop
+- Edge Desktop
+- Chrome Android browser
 
+using:
 - Python
-- Microsoft Edge Selenium Webdriver
+- Selenium Webdriver
 - OpenCV library
 - Pillow library
+- Appium
