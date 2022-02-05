@@ -4,7 +4,7 @@
 - Edge Desktop
 - Chrome Android browser
 
-using:
+Using:
 - Python
 - Selenium Webdriver
 - OpenCV library
