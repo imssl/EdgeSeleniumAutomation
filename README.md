@@ -1,8 +1,9 @@
 # Selenium Automation
 Automated tests on:
-- Chrome Desktop
-- Edge Desktop
-- Chrome Android browser
+- Chrome Desktop on Windows
+- Edge Desktop on Windows
+- Chrome Mobile on Android
+- Safari Desktop on MacOS
 
 Using:
 - Python
