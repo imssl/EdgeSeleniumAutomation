@@ -2,8 +2,8 @@
 Automated tests on:
 - Chrome Desktop on Windows
 - Chrome Mobile on Android
-- Safari Desktop on MacOS
 - Edge Desktop on Windows
+- Safari Desktop on MacOS
 
 Using:
 - Python
