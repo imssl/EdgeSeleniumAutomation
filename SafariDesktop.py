@@ -34,7 +34,7 @@ def analyze(name, video, key):
         token.send_keys(key)
 
         # Send FairPlay license certificate
-        cert.send_keys("https://vtb.axinom.com/FPScert/fairplay.cer")
+        cert.send_keys("https://URL")
 
         # Enter the license server address to be tested.
         licenseServer.send_keys("https://URL")
