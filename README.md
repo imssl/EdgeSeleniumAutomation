@@ -8,6 +8,6 @@ Automated tests on:
 Using:
 - Python
 - Selenium Webdriver
+- Appium
 - OpenCV library
 - Pillow library
-- Appium
