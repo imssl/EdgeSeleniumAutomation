@@ -1,5 +1,5 @@
 # Purpose of this tool is to execute automated playback tests
-# with given license server API, test vectors and tokens.
+# with given license server API, test medias and tokens.
 # pip install msedge-selenium-tools selenium pillow opencv-python
 import time
 import os
