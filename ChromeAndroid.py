@@ -1,8 +1,7 @@
 # Purpose of this tool is to execute automated playback tests
-# with given license server API, test vectors and tokens.
+# with given license server API, test medias and tokens.
 # Need to install Appium Server on the PC: https://appium.io/
 # Need to install Android Studio and SDK tools: https://developer.android.com/studio
-# Need to install library: selenium, Appium Python Client
 # pip install selenium Appium-Python-Client
 from appium import webdriver
 from appium.webdriver.common.appiumby import AppiumBy
